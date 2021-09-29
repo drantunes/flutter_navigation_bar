@@ -14,7 +14,7 @@ class App extends StatelessWidget {
       title: 'Material You NavBar',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.grey,
+        primarySwatch: Colors.lightBlue,
       ),
       home: const HomePage(),
     );
